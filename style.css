@@ -131,7 +131,8 @@ ul li:hover{
 .three{
     display: flex;
     /* flex-direction: column; */
-    width: 1140px;
+    /* width: 1140px; */
+    width: 1150px;
     margin-left: 190px;
     flex-wrap: wrap;
    justify-content: center;
